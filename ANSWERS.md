@@ -20,8 +20,8 @@ What are three different ways to style components in React? Explain some of the 
 Three different ways to style components in React are
 Inline CSS: 
     We can apply styling directly to the element instead of an external CSS file.
-Styled components
+Styled components:
     We can build reusable components in JS that get passed the styling we want.
-ReactStrap 
+ReactStrap: 
     We can import library like ReactStrap that have some pre built components that are already styled. 
 
